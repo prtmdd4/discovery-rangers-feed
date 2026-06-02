@@ -14,7 +14,7 @@
       <link>https://prtmdd4.github.io/discovery-rangers-feed</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 10:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:54:36 +0000</lastBuildDate>
     <itunes:author>Discovery Rangers</itunes:author>
     <itunes:category text="Kids &amp; Family">
       <itunes:category text="Education for Kids"/>
@@ -29,6 +29,26 @@
     <itunes:summary>Discovery Rangers explores science, animals, history, and big ideas for curious families. Educational, kid-safe STEM podcasts for ages 4-12 — perfect for homeschool, road trips, and rainy-day learning.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     
+    
+    <item>
+      <title>Robot Marathon Runners vs. Human Athletes</title>
+      <link>https://open.spotify.com/show/6vY9X8vY9X8vY9X8vY9X8vY</link>
+      <description>Discovery Rangers - Adventure Learning Podcast for Kids
+Join the Discovery Rangers for exciting adventures that make learning fun! Perfect for kids ages 4-10, this podcast turns science, history, and nature into thrilling, interactive stories. Each episode sparks curiosity and builds critical thinking while taking kids on a journey of exploration. Parents love how we mix education and entertainment, inspiring young minds to discover the world around them. Tune in and make learning an unforgettable adventure with the Discovery Rangers!</description>
+      <content:encoded>Discovery Rangers - Adventure Learning Podcast for Kids
+Join the Discovery Rangers for exciting adventures that make learning fun! Perfect for kids ages 4-10, this podcast turns science, history, and nature into thrilling, interactive stories. Each episode sparks curiosity and builds critical thinking while taking kids on a journey of exploration. Parents love how we mix education and entertainment, inspiring young minds to discover the world around them. Tune in and make learning an unforgettable adventure with the Discovery Rangers!</content:encoded>
+      <guid isPermaLink="false">discovery-rangers:robot-marathon-runners-vs-human-athletes-1780404379</guid>
+      <enclosure url="https://prtmdd4.github.io/discovery-rangers-feed/audio/robot-marathon-runners-vs-human-athletes-1780404379.mp3" length="16793226" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2026 12:54:36 +0000</pubDate>
+      <itunes:author>Discovery Rangers</itunes:author>
+      <itunes:image href="https://prtmdd4.github.io/discovery-rangers-feed/cover.jpg"/>
+      <itunes:duration>699</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Discovery Rangers - Adventure Learning Podcast for Kids</itunes:subtitle>
+      <itunes:summary>Discovery Rangers - Adventure Learning Podcast for Kids
+Join the Discovery Rangers for exciting adventures that make learning fun! Perfect for kids ages 4-10, this podcast turns science, history, and nature into thrilling, interactive stories. Each episode sparks curiosity and builds critical thinking while taking kids on a journey of exploration. Parents love how we mix education and entertainment, inspiring young minds to discover the world around them. Tune in and make learning an unforgettable adventure with the Discovery Rangers!</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Antarctica&#x27;s Hidden Melt: Warm Water Under Ice Shelves | Climate Science for Kids</title>
       <link>https://open.spotify.com/show/6vY9X8vY9X8vY9X8vY9X8vY</link>
